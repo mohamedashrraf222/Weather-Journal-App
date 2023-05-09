@@ -33,7 +33,7 @@ const callBackFunction = async () => {
     if (error) {
       console.log(error);
       entryHolder.innerText =
-        "Please enter a valid zip code, for examble france zip code is 75020";
+        "Please enter a valid zip code, for examble paris zip code is: 70123";
       temp.innerText = `The tempreture now is : N/A `;
       date.innerText = `Today is : N/A`;
       content.innerText = `You feel : N/A`;
