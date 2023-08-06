@@ -1,13 +1,12 @@
-# Weather-Journal App Project
+# Full-stack Weather Web App
 
 ## Overview
-In This project I  created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+This is a full stack project simultion that uses html, css, and javascript for the frontend and uses Express.js framework for the backend api server that takes zip code from the frontend in the paramers and make a request to an api to get the weather and send response to frontend. 
 
-## Instructions to run the app
-- you can visit the live project from here: https://wether-web-app.onrender.com
-- after you clone the app into your computer you will need to rum npm install in the terminal to install the modules needed
-- then you can start the server from the server file with npm start
-- it will be hosted to your localhost with nodemon
+## Demo
+since this project needs a server to run I deployed it with render.com with the free plan so It can take time to open
+you can visit the live demo of the project from [here](https://wether-web-app.onrender.com)
+
 
 
 
